@@ -7,8 +7,8 @@ It is a work in progress, and always updated with new stuff !
  
  [2- AutoML with TPOT Python Library](/Testing_TOPT.ipynb)
  
- [3- More to Come..]()
+Still More to come !
  
- [4- ....]()
+ 
  
  
