@@ -3,7 +3,7 @@
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://twitter.com/wajdi_bs) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/wajdi_bs)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://twitter.com/wajdi_bs)
 
 Here is a collection of notebooks and datasets I used to test some concepts, or play around with data and libraries. 
-It is a work in progress, and always updated with new stuff !
+It is a work in progress, and always updated with new stuff !   
 
  [1- Using the Diabetes dataset and a couple of Models to see if we can optimize our predictions using various technics](/Optimized_Ensemble_Stack.ipynb)
  
