@@ -10,7 +10,7 @@ It is a work in progress, and always updated with new stuff !
  [2- AutoML with TPOT Python Library](/Testing_TOPT.ipynb)
  
  
- [3- OpenCV for computer vision and face detection](/)
+ [3- OpenCV for computer vision and face detection](/OpenCV_for_computer_vision_and_face_detection_V02.ipynb)
  
 Still More to come !
 ( any suggestions or remarks are welcome! )
