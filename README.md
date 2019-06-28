@@ -11,7 +11,11 @@ It is a work in progress, and always updated with new stuff!
  
  
  [3- OpenCV for computer vision and face detection](/OpenCV_for_computer_vision_and_face_detection_V02.ipynb)
- 
+
+
+ [4- Generating Faces](/)
+
+
 Still More to come !
 ( any suggestions or remarks are welcome! )
  
