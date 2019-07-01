@@ -17,7 +17,7 @@ It is a work in progress, and always updated with new stuff!
  
 [5- Scraping the internet : work in progress](/)
 
-[6- Kaggle's Jigsaw Unintended Bias in Toxicity Classification](/)
+[6- Kaggle's Jigsaw Unintended Bias in Toxicity Classification](/Jigsaw Unintended Bias in Toxicity Classification_V01.ipynb)
 
 
 
