@@ -17,7 +17,7 @@ It is a work in progress, and always updated with new stuff!
 
 [6- Kaggle Jigsaw Unintended Bias in Toxicity Classification](/Jigsaw_Unintended_Bias_in_Toxicity_Classification_V01.ipynb)
 
-[7- Discovering Natural Language Processing: ](/)
+[7- Discovering Natural Language Processing](/First_Steps_in_NLP.ipynb)
 
 
 
