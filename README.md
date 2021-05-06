@@ -7,7 +7,7 @@ It is a work in progress, and always updated with new stuff!
 
 [1- Using the Diabetes dataset and a couple of Models to see if we can optimize our predictions using various technics](/Optimized_Ensemble_Stack.ipynb)
  
-[2- AutoML with TPOT Python Library](/Testing_TOPT.ipynb)
+[2- AutoML with TPOT Python Library](https://github.com/WajdiBenSaad/Random_Python_Stuff/blob/master/Testing_TPOT.ipynb)
   
 [3- OpenCV for computer vision and face detection](/OpenCV_for_computer_vision_and_face_detection_V02.ipynb)
 
